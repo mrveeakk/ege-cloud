@@ -1,9 +1,9 @@
 {
-    "database": {
-        "host": "merveakpostgres1.postgres.database.azure.com",
-        "dbname": "postgres",
-        "user": "mrveeakk@MerveakPostgres1",
-        "password": "151217Fm_",
-        "ssl": "require"
-    }
+  "database": {
+    "host": "merveakpostgres1.postgres.database.azure.com",
+    "dbname": "postgres",
+    "user": "mrveeakk@MerveakPostgres1",
+    "password": "151217Fm_",
+    "ssl": "require"
+  }
 }
